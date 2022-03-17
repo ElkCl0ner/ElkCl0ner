@@ -10,12 +10,12 @@
 
 ### 🧰 Languages and Tools:
 
-[<img align = "left" alt = "Python" width = "32px" src = "https://github.com/ElkCl0ner/images/tree/main/ElkCl0ner/python_logo.png" />]
+[<img align = "left" alt = "Python" width = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/python_logo.png" />]
 Python
 
 <br />
 
-[<img align = "left" alt = "Python" width = "32px" src = "https://github.com/ElkCl0ner/images/tree/main/ElkCl0ner/java_logo.png" />]
+[<img align = "left" alt = "Python" width = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/java_logo.jpg" />]
 Java
 
 <br />
