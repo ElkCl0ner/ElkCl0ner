@@ -1,7 +1,7 @@
 ### Hello, I'm Lin Wei 👋
 
 ## I'm a McGill University student studying Software Engineering!
-- ✨ I'm currently trying to discover new aspects of programming to find which I prefer
+- ✨ I'm currently trying to discover new fields of programming to find those which I prefer
 - 💡 I'm currently learning UnrealEngine and Blender
 - 🔭 I'm currently looking for an internship to develop my skills and to gain real-life experience
 - 🎹 My favorite hobbies are playing piano and skiing ⛷️
