@@ -8,14 +8,21 @@
 
 <br />
 
+### 🌐 Links
+- [<img align = "left" alt = "Itch.io" height = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/itchio_logo.png" />][Itch.io]
+
+<br />
+
 ### 🧰 Languages and Tools:
 
-[<img align = "left" alt = "Python" width = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/python_logo.png" />]
-Python
+- <img align = "left" alt = "Python" width = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/python_logo.png" />Python
 
-<br />
+- <img align = "left" alt = "Python" width = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/java_logo.jpg" />Java
 
-[<img align = "left" alt = "Python" width = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/java_logo.jpg" />]
-Java
+- <img align = "left" alt = "Python" width = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/vhdl_logo.jpg" />VHDL
 
-<br />
+- <img align = "left" alt = "Python" width = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/renpy_logo.png" />Ren'Py
+
+- <img align = "left" alt = "Python" width = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/godot_logo.png" />Godot
+
+[Itch.io]: https://elkcl0ner.itch.io
