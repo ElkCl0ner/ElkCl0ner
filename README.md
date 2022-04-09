@@ -11,6 +11,8 @@
 ### 🌐 Links
 - [<img align = "left" alt = "Itch.io" height = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/itchio_logo.png" />][Itch.io]
 
+- [<img align = "left" alt = "LinkedIn" height = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/LinkedIn_logo.png" />][LinkedIn]
+
 <br />
 
 ### 🧰 Languages and Tools:
@@ -26,3 +28,4 @@
 - <img align = "left" alt = "Python" width = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/godot_logo.png" />Godot
 
 [Itch.io]: https://elkcl0ner.itch.io
+[LinkedIn]: https://www.linkedin.com/in/lin-wei-li-270937151/
