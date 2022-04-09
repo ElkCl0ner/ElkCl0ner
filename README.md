@@ -9,10 +9,11 @@
 <br />
 
 ### 🌐 Links
-- [<img align = "left" alt = "Itch.io" height = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/itchio_logo.png" />][Itch.io]
+[<img align = "left" alt = "Itch.io" height = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/itchio_logo.png" />][Itch.io]
+[<img align = "left" alt = "LinkedIn" height = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/LinkedIn_logo.png" />][LinkedIn]
 
-- [<img align = "left" alt = "LinkedIn" height = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/LinkedIn_logo.png" />][LinkedIn]
-
+<br />
+<br />
 <br />
 
 ### 🧰 Languages and Tools:
