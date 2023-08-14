@@ -21,6 +21,7 @@
 - Python
 - Java
 - C
+- SQL
 
 **Game Dev**
 - Godot Engine
