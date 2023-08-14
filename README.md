@@ -1,10 +1,8 @@
 ### Hello, I'm Lin Wei 👋
 
 ## I'm a Software Engineering student at McGill University!
-- ✨ I'm currently trying to discover new fields of programming to find those which I prefer
 - 💡 I'm currently learning Socket.IO and Blender
-- 🔭 I'm currently looking for an internship to develop my skills and to gain real-life experience
-- 🎹 My favorite hobbies are playing piano and skiing ⛷️
+- 🎹 My favorite hobbies are playing piano and badminton 🏸
 
 <br />
 
@@ -18,7 +16,21 @@
 
 ### 🧰 Languages and Tools:
 
+**Programing Languages**
+- Python
+- Java
+- C
 
+**Game Dev**
+- Godot Engine
+- Ren'Py
+
+**Web Dev**
+- Html/CSS/JS
+- Node.js
+- TypeScript
+- React
+- P5.js
 
 [Itch.io]: https://elkcl0ner.itch.io
 [LinkedIn]: https://www.linkedin.com/in/lin-wei-li-270937151/
