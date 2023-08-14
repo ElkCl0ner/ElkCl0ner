@@ -9,7 +9,7 @@
 <br />
 
 ### 🌐 Links
-[<img align = "left" alt = "Itch.io" height = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/itchio_logo.png" />][Itch.io]
+[<img align = "left" alt = "Itch.io" width = "64px" src = "https://github.com/ElkCl0ner/ElkCl0ner/blob/main/images/itch-io_logo.png" />][Itch.io]
 [<img align = "left" alt = "LinkedIn" height = "32px" src = "https://github.com/ElkCl0ner/images/blob/main/ElkCl0ner/LinkedIn_logo.png" />][LinkedIn]
 
 <br />
