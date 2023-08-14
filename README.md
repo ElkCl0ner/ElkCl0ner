@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineering student at McGill University!
 - ✨ I'm currently trying to discover new fields of programming to find those which I prefer
-- 💡 I'm currently learning Blender
+- 💡 I'm currently learning Socket.IO and Blender
 - 🔭 I'm currently looking for an internship to develop my skills and to gain real-life experience
 - 🎹 My favorite hobbies are playing piano and skiing ⛷️
 
