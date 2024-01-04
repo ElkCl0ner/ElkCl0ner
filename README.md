@@ -20,8 +20,10 @@
 **Programing Languages**
 - Python
 - Java
-- C
+- C/C++
 - SQL
+- ARMv7 assembly
+- Bash
 
 **Game Dev**
 - Godot Engine
@@ -32,6 +34,8 @@
 - Node.js
 - TypeScript
 - React
+- jQuery
+- Bootstrap
 - P5.js
 
 [Itch.io]: https://elkcl0ner.itch.io
