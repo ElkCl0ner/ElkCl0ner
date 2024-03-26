@@ -24,6 +24,7 @@
 - SQL
 - ARMv7 assembly
 - Bash
+- OCaml
 
 **Game Dev**
 - Godot Engine
